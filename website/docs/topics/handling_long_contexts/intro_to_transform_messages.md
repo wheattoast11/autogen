@@ -307,8 +307,8 @@ user_proxy = autogen.UserProxyAgent(
 )
 
 messages = [
-    {"content": "api key 1 = sk-7nwt00xv6fuegfu3gnwmhrgxvuc1cyrhxcq1quur9zvf05fy"},  # Don't worry, the key is randomly generated
-    {"content": [{"type": "text", "text": "API key 2 = sk-9wi0gf1j2rz6utaqd3ww3o6c1h1n28wviypk7bd81wlj95an"}]},
+    {"content": "api key 1 = REDACTED_ROTATED_2026_06_10"},  # Don't worry, the key is randomly generated
+    {"content": [{"type": "text", "text": "API key 2 = REDACTED_ROTATED_2026_06_10"}]},
 ]
 
 for message in messages:
